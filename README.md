@@ -5,33 +5,122 @@
 
 ## 🔎 Project Overview
 
-This project evaluates three enterprise Endpoint Detection and Response (EDR) solutions:
+This project demonstrates practical knowledge of Endpoint Detection and Response (EDR), endpoint security, digital forensics, threat detection, incident response, and cybersecurity product evaluation.
+
+The assessment compared three enterprise EDR solutions:
 
 - CrowdStrike Falcon Insight
 - Sophos Intercept X Endpoint
 - Symantec Endpoint Security Complete
 
-The evaluation focused on security capability, endpoint isolation, forensic investigation, malware-analysis support, managed security services, Zero Trust capability, deployment, integration, support and overall suitability.
+The objective was to evaluate each product against technical and operational security requirements and recommend the most suitable solution.
 
-## 🎯 Project Objective
+---
 
-The objective was to compare the three EDR platforms against organizational security requirements and identify the most suitable solution based on technical capability, operational effectiveness and deployment considerations.
+## 🎯 Project Objectives
 
-## 🏆 Selected Solution
+- Compare enterprise EDR capabilities
+- Evaluate endpoint isolation and containment
+- Assess forensic investigation capabilities
+- Review malware-analysis and sandbox functionality
+- Evaluate managed security-service support
+- Compare Zero Trust-related capabilities
+- Assess deployment and integration
+- Compare vendor support and customer confidence
+- Recommend the most suitable EDR platform
 
-**CrowdStrike Falcon Insight**
+---
 
-The evaluation identified CrowdStrike Falcon Insight as the strongest overall fit based on:
+## 📊 Product Comparison
+
+| Capability | CrowdStrike Falcon Insight | Sophos Intercept X | Symantec Endpoint Security Complete |
+|---|---|---|---|
+| Endpoint Isolation | Yes | Yes | Yes |
+| Forensic Evidence | Yes | Yes | Yes |
+| Cloud Sandbox | Yes | Yes | Yes |
+| Managed Security Services | Yes | Yes | Yes |
+| Zero Trust Assessment | Yes | No | Yes |
+| Price | $70/seat | $65/seat | $60/seat |
+| Gartner Overall Rating | 4.7/5 | 4.7/5 | 4.4/5 |
+| Overall Capability Score | 4.8 | 4.7 | 4.4 |
+| Integration & Deployment | 4.7 | 4.7 | 4.4 |
+| Services & Support | 4.5 | 4.6 | 4.4 |
+| Users Willing to Recommend | 99% | 95% | 84% |
+
+---
+
+## 🏆 Recommended Solution
+
+### CrowdStrike Falcon Insight
+
+Based on the evaluation, CrowdStrike Falcon Insight was selected as the most suitable product.
+
+### Key Reasons
 
 - Strong forensic capability
 - Real-time AI-driven detection
-- Network containment
+- Network containment capability
 - Strong integration and deployment capability
 - High customer confidence
-- MITRE ATT&CK integration
-- Cloud-native architecture
-- Threat intelligence integration
-- Proactive threat hunting
+- Broad endpoint-security functionality
+
+---
+
+## 🔍 Additional Advantages
+
+### MITRE ATT&CK Integration
+
+Falcon Insight maps detections to the MITRE ATT&CK framework, helping analysts understand attacker behaviour, tactics and techniques.
+
+### CrowdScore & Incident Workbench
+
+CrowdScore supports real-time threat prioritization, while Incident Workbench consolidates telemetry, alerts and investigation context into a centralized investigation view.
+
+### Cloud-Native Architecture
+
+The platform uses a cloud-delivered architecture with lightweight endpoint agents, reducing the need for on-premise infrastructure.
+
+### Integrated Threat Intelligence
+
+Endpoint telemetry can be combined with threat intelligence to provide additional context about adversaries and attacker techniques.
+
+### Proactive Threat Hunting
+
+CrowdStrike Falcon OverWatch provides managed threat-hunting capabilities designed to identify advanced threats that may evade automated detection.
+
+### Cross-Platform Support
+
+The platform supports multiple endpoint environments including:
+
+- Windows
+- macOS
+- Linux
+- Mobile platforms
+
+### Low Endpoint Impact
+
+The lightweight-agent architecture is designed to reduce performance impact on endpoint systems.
+
+---
+
+## 🛡️ Security Capabilities Evaluated
+
+The evaluation covered:
+
+- Endpoint Detection & Response
+- Network containment
+- Digital forensics
+- Malware sandboxing
+- Managed detection and response
+- Zero Trust
+- Threat intelligence
+- Threat hunting
+- Security analytics
+- Incident investigation
+- Endpoint telemetry
+- Deployment and integration
+
+---
 
 ## 🧠 Skills Demonstrated
 
@@ -42,13 +131,39 @@ The evaluation identified CrowdStrike Falcon Insight as the strongest overall fi
 - Digital Forensics
 - Threat Detection
 - MITRE ATT&CK
-- Zero Trust
 - Threat Intelligence
+- Zero Trust
 - Security Architecture
+- Vendor Evaluation
+- Cybersecurity Decision-Making
+
+---
+
+## 📈 Key Takeaways
+
+This project strengthened my ability to evaluate security technologies based on both technical capability and operational requirements.
+
+It also demonstrated the importance of balancing:
+
+- Security effectiveness
+- Deployment complexity
+- Endpoint performance
+- Forensic capability
+- Detection quality
+- Threat intelligence
+- Support
+- Cost
+- Organizational requirements
+
+---
 
 ## 📄 Project Evidence
 
-The completed EDR Product Evaluation submission will be included in this repository as supporting evidence.
+The completed EDR Product Evaluation submission is included in this repository as supporting evidence.
+
+[📄 View EDR Product Evaluation Submission](EDR%20Product%20Evaluation%20%20Submission.docx)
+
+---
 
 ## 👨‍💻 Author
 
