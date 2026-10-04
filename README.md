@@ -155,6 +155,22 @@ It also demonstrated the importance of balancing:
 - Cost
 - Organizational requirements
 
+- ## 📸 Project Screenshots
+
+### 1. EDR Product Comparison
+![EDR Product Comparison](screenshots/01-edr-product-comparison.png)
+
+### 2. CrowdStrike Recommendation
+![CrowdStrike Recommendation](screenshots/02-crowdstrike-recommendation.png)
+
+### 3. CrowdStrike Advanced Capabilities
+![CrowdStrike Advanced Capabilities](screenshots/03-crowdstrike-advanced-capabilities.png)
+
+### 4. Assessment Result — 30/30
+![EDR Assessment Result 30 of 30](screenshots/04-edr-assessment-result-30-of-30.png)
+
+---
+
 ---
 
 ## 📄 Project Evidence
