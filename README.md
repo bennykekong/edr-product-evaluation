@@ -5,37 +5,50 @@
 
 ## 🔎 Project Overview
 
-This project demonstrates practical knowledge of Endpoint Detection and Response (EDR), endpoint security, security-product evaluation and cybersecurity decision-making.
+This project evaluates three enterprise Endpoint Detection and Response (EDR) solutions:
 
-The project involved comparing enterprise EDR capabilities and evaluating their suitability against defined security and operational requirements.
+- CrowdStrike Falcon Insight
+- Sophos Intercept X Endpoint
+- Symantec Endpoint Security Complete
 
-## 🎯 Project Objectives
+The evaluation focused on security capability, endpoint isolation, forensic investigation, malware-analysis support, managed security services, Zero Trust capability, deployment, integration, support and overall suitability.
 
-- Evaluate enterprise EDR capabilities
-- Compare endpoint-isolation functionality
-- Assess forensic-investigation capabilities
-- Review malware-analysis and sandboxing features
-- Evaluate managed security-service options
-- Assess deployment and integration considerations
-- Compare Zero Trust-related capabilities
-- Develop a security-product recommendation based on organizational requirements
+## 🎯 Project Objective
+
+The objective was to compare the three EDR platforms against organizational security requirements and identify the most suitable solution based on technical capability, operational effectiveness and deployment considerations.
+
+## 🏆 Selected Solution
+
+**CrowdStrike Falcon Insight**
+
+The evaluation identified CrowdStrike Falcon Insight as the strongest overall fit based on:
+
+- Strong forensic capability
+- Real-time AI-driven detection
+- Network containment
+- Strong integration and deployment capability
+- High customer confidence
+- MITRE ATT&CK integration
+- Cloud-native architecture
+- Threat intelligence integration
+- Proactive threat hunting
 
 ## 🧠 Skills Demonstrated
 
 - Endpoint Detection & Response (EDR)
 - Endpoint Security
 - Security Product Evaluation
-- Threat Detection
 - Incident Response
 - Digital Forensics
-- Malware Analysis
+- Threat Detection
+- MITRE ATT&CK
 - Zero Trust
+- Threat Intelligence
 - Security Architecture
-- Vendor Risk & Technology Assessment
 
 ## 📄 Project Evidence
 
-Project evidence will be added after the original submission and assessment result are verified.
+The completed EDR Product Evaluation submission will be included in this repository as supporting evidence.
 
 ## 👨‍💻 Author
 
